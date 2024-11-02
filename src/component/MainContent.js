@@ -67,8 +67,6 @@ const MainContent = () => {
                 </div>
             </div>
 
-        
-
         </>
     )
 }
